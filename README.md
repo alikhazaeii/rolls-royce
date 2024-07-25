@@ -1,7 +1,7 @@
 # rolls-royce
 
 
-- 💬 Ask me about **html5,css3,react,tawilwind,bootstrap**
+- 💬 Ask me about **html5,css3,**
 
 - 📫 How to reach me **ali.tradding021@gmail.com**
 
